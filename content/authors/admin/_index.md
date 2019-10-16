@@ -42,9 +42,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rodleonardoc
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/rodleonardoc
@@ -64,6 +61,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am an avid reader − averaging a book a week since 2018 – and a fanatic of astrophysics. I practice soccer at a semi-pro level, frequently bet on popular soccer games, dance to Latin music at the local Cuban Dance School, participate in scientific disclosure in social media, occasionally trade binary options and spend quality time with family and friends. I am responsible, dedicated, disciplined, loyal and honest, having immovable principles and values and an unstoppable willpower oriented towards what I want to achieve.
