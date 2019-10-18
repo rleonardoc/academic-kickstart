@@ -61,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-I am an avid reader − averaging a book a week since 2018 – and a fanatic of astrophysics. I practice soccer at a semi-pro level, frequently bet on popular soccer games, dance to Latin music at the local Cuban Dance School, participate in scientific disclosure in social media, occasionally trade binary options and spend quality time with family and friends. I am responsible, dedicated, disciplined, loyal and honest, having immovable principles and values and an unstoppable willpower oriented towards what I want to achieve.
+I am an avid reader − averaging a book a week since 2018 – and a fanatic of astrophysics. I practice soccer at a semi-pro level, frequently bet on popular soccer games, dance to Latin music at the local Cuban Dance School, occasionally trade binary options and spend quality time with family and friends. I am responsible, dedicated, disciplined, loyal and honest, having immovable principles and values and an unstoppable willpower oriented towards what I want to achieve.
