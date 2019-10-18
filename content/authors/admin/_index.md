@@ -18,7 +18,7 @@ organizations:
   url: "http://uvg.edu.gt/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently majoring in Applied Mathematics and expect to graduate in June 2020. 
+bio: I am currently majoring in Applied Mathematics and expect to graduate in June 2020. I plan to pursue a PhD in Applied Mathematics and that's why I am focusing most of my efforts (and savings) in my grad school applications.
 
 interests:
 - Machine Learning
@@ -61,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-I am an avid reader − averaging a book a week since 2018 – and a fanatic of astrophysics. I practice soccer at a semi-pro level, frequently bet on popular soccer games, dance to Latin music at the local Cuban Dance School, occasionally trade binary options and spend quality time with family and friends. I am responsible, dedicated, disciplined, loyal and honest, having immovable principles and values and an unstoppable willpower oriented towards what I want to achieve.
+I am an avid reader − averaging a book a week since 2018 – and a fanatic of astrophysics. I practice soccer at a semi-pro level, frequently bet on soccer games, dance to latin music every now and then, trade binary options and spend quality time with family and friends. I am dedicated, disciplined, resilient and curious, having immovable principles and values and an unstoppable willpower oriented towards what I want to achieve.
