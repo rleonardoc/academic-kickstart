@@ -88,4 +88,24 @@ date_format = "Jan 2006"
   date_end = "2018-09-21"
   description = "Seven times medallist nationwide in Guatemala, competing in the categories of Mathematics and Physics at college-level (3) and during high school (4)."
 
+[[item]]
+  organization = "Universidad del Valle de Guatemala"
+  organization_url = ""
+  title = "Winner of Francisco Nieves medal"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-03-01"
+  date_end = ""
+  description = "For the freshman with the best average score."
+
+[[item]]
+  organization = "International Mathematical Olympiad"
+  organization_url = ""
+  title = "Selected in three occasions to represent Guatemala"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-06-01"
+  date_end = "2015-06-01"
+  description = "Couldn't participate due to lack of funding from Guatemala's government."
+
 +++
