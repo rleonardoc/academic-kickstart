@@ -24,12 +24,11 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Participant of the Undergraduate Summer School of PCMI, a program of the Institute for Advanced Study, Princeton.
+  description = """Participant of the Undergraduate Summer School of PCMI, a program of the Institute for Advanced Study, Princeton."""
   Intensive three-week summer school. Participated in two classes:
   * Introduction to Harmonic Analysis
   * Oscillations in Harmonic Analysis
   Member of undergraduate research group led by Rafe Mazzeo, director of PCMI. Studied nodal domains and the Courant nodal domain theorem.
-  """
 
 [[experience]]
   title = "Professor"
