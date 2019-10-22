@@ -33,13 +33,27 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2019-06-23"
   date_end = "2019-08-24"
-  description = "Participant of Research in Industrial Projects for Students, 9-week-long summer program jointly sponsored by the Institute for Pure and Applied Mathematics (IPAM), GumGum Inc. and NSF grant $\langle DMS\rangle$ 1440415."
+  description = "Participant of Research in Industrial Projects for Students, summer program jointly sponsored by the Institute for Pure and Applied Mathematics (IPAM), GumGum Inc. and NSF grant $\langle DMS\rangle$ 1440415."
   Responsibilities include:
   
   * Research and development of Computer Vision and Natural Language Processing algorithms centered around content safety classification.
   * Design, development and integration of machine learning algorithms using a multimodal approach.
   * Leading the team on the training and evaluation of the models produced.
   * Presenting the research at both GumGum Inc. and IPAM.
+  """
+
+[[experience]]
+  title = "Student"
+  company = "Park City Mathematics Institute (PCMI) -- A program of the IAS"
+  company_url = "https://www.ias.edu/pcmi"
+  location = "Park City, UT"
+  date_start = "2018-07-1"
+  date_end = "2018-07-21"
+  description = "Participant of the Undergraduate Summer School of PCMI, a program of the Institute for Advanced Study, Princeton."
+  Intensive three-week summer school. Participated in two classes:
+  * Introduction to Harmonic Analysis
+  * Oscillations in Harmonic Analysis
+  Member of undergraduate research group led by Rafe Mazzeo, director of PCMI. Studied nodal domains and the Courant nodal domain theorem.
   """
 
 +++
