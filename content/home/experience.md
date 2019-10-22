@@ -50,8 +50,5 @@ date_format = "Jan 2006"
   * Design, development and integration of machine learning algorithms using a multimodal approach.
   * Leading the team on the training and evaluation of the models produced.
   * Presenting the research at both GumGum Inc. and IPAM.
-
-  """
-
-
+  
 +++
