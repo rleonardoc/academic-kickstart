@@ -47,5 +47,6 @@ date_format = "Jan 2006"
   * Introduction to Harmonic Analysis
   * Oscillations in Harmonic Analysis
   Member of undergraduate research group led by Rafe Mazzeo, director of PCMI. Studied nodal domains and the Courant nodal domain theorem.
+  """
 
 +++
