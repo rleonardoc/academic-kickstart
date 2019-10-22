@@ -40,7 +40,6 @@ date_format = "Jan 2006"
   * Design, development and integration of machine learning algorithms using a multimodal approach.
   * Leading the team on the training and evaluation of the models produced.
   * Presenting the research at both GumGum Inc. and IPAM.
-  """
 
 [[experience]]
   title = "Student"
@@ -54,6 +53,5 @@ date_format = "Jan 2006"
   * Introduction to Harmonic Analysis
   * Oscillations in Harmonic Analysis
   Member of undergraduate research group led by Rafe Mazzeo, director of PCMI. Studied nodal domains and the Courant nodal domain theorem.
-  """
 
 +++
