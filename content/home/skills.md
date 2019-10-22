@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "In Applied Mathematics"
 
 # Showcase personal skills or business features.
 # 
@@ -24,12 +24,30 @@ subtitle = ""
   icon = "wave-square"
   icon_pack = "fas"
   name = "Harmonic Analysis"
-  description = "100%"  
+  #description = "100%"  
   
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "RStudio"
-  description = "10%"
+  icon = "dice"
+  icon_pack = "fas"
+  name = "Probabilistic Analysis"
+  #description = "10%"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Data Science"
+  #description = "90%"
+  
+[[feature]]
+  icon = "wave-square"
+  icon_pack = "fas"
+  name = "Numerical Analysis"
+  #description = "100%"  
+  
+[[feature]]
+  icon = "dice"
+  icon_pack = "fas"
+  name = "Probabilistic Analysis"
+  #description = "10%"
 
 +++
