@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ias.edu/pcmi"
   location = "California"
   date_start = "2018-07-01"
-  date_end = "2018-21"
+  date_end = "2018-07-21"
   description = """
   Participant of the Undergraduate Summer School at PCMI, an intensive three-week-long program of the Institute for Advanced Study, Princeton. Took part in two classes:
 
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Researcher and Project Manager"
-  company = "GumGum Inc. and IPAM"
+  title = "Researcher/Project Manager"
+  company = "GumGum Inc. & IPAM"
   company_url = "https://www.ias.edu/pcmi"
   location = "California"
   date_start = "2019-06-03"
