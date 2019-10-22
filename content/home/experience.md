@@ -1,6 +1,5 @@
 +++
 # Experience widget.
-markup: mmark
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -43,7 +42,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2019-06-23"
   date_end = "2019-08-24"
-  description = """Participant of Research in Industrial Projects for Students, summer program jointly sponsored by the Institute for Pure and Applied Mathematics (IPAM), GumGum Inc. and NSF grant $$\langle$$ DMS$$\rangle$$ 1440415."""
+  description = """Participant of Research in Industrial Projects for Students, summer program jointly sponsored by the Institute for Pure and Applied Mathematics (IPAM), GumGum Inc. and NSF grant DMS-1440415."""
   Responsibilities include:
   
   * Research and development of Computer Vision and Natural Language Processing algorithms centered around content safety classification.
