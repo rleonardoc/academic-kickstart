@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Student"
-  company = "Park City Mathematics Institute (PCMI)"
+  company = "Park City Mathematics Institute"
   company_url = ""
-  location = "Park City, UT"
-  date_start = "2018-07-1"
-  date_end = "2018-08-1"
-  description = """Participant of the Undergraduate Summer School of PCMI, a program of the Institute for Advanced Study, Princeton."""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
   title = "Professor"
