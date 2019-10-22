@@ -1,6 +1,9 @@
 ---
-date: 2017-12-01
-title: My first blog post
+date: 2019-12-15T08:30:00
+title: At the 18th International Conference on Machine Learning and Applications - ICMLA 2019
+summary: Conference in the Machine Learning in Advanced Machine Vision special session.
+authors: ["admin"]
+featured: true
 ---
 
 # h1 Heading 8-)

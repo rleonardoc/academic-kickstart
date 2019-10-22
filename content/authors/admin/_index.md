@@ -18,7 +18,7 @@ organizations:
   url: "http://uvg.edu.gt/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently majoring in Applied Mathematics and expect to graduate in June 2020. I plan to pursue a PhD in Applied Mathematics and that's why I am focusing most of my efforts (and savings) in my grad school applications.
+bio: Majoring in Applied Mathematics and expect to graduate in June 2020. I plan to pursue a PhD in Applied Mathematics and that's why I am focusing most of my efforts (and savings) in grad school applications.
 
 interests:
 - Machine Learning
