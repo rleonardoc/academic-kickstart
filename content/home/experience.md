@@ -49,19 +49,4 @@ date_format = "Jan 2006"
   date_end = "2019-11-30"
   description = "Taught AP Calculus AB."
 
-[[experience]]
-  title = "Researcher/Project Manager"
-  company = "GumGum Inc. & IPAM, UCLA"
-  company_url = "https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/"
-  location = "Los Angeles, CA"
-  date_start = "2019-06-23"
-  date_end = "2019-08-24"
-  description = """Participant of Research in Industrial Projects for Students, summer program jointly sponsored by the Institute for Pure and Applied Mathematics (IPAM), GumGum Inc. and NSF grant $\langle DMS\rangle$ 1440415."""
-  Responsibilities include:
-  
-  * Research and development of Computer Vision and Natural Language Processing algorithms centered around content safety classification.
-  * Design, development and integration of machine learning algorithms using a multimodal approach.
-  * Leading the team on the training and evaluation of the models produced.
-  * Presenting the research at both GumGum Inc. and IPAM.
-
 +++
