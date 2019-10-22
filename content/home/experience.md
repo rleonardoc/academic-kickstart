@@ -22,10 +22,26 @@ date_format = "Jan 2006"
   company = "Park City Mathematics Institute"
   company_url = "https://www.ias.edu/pcmi"
   location = "California"
-  date_start = "2019-07-01"
-  date_end = "2019-07-21"
+  date_start = "2018-07-01"
+  date_end = "2018-21"
   description = """
-  Participant of the Undergraduate Summer School of PCMI, an intensive three-week program of the Institute for Advanced Study, Princeton. Took part in two classes:
+  Participant of the Undergraduate Summer School at PCMI, an intensive three-week-long program of the Institute for Advanced Study, Princeton. Took part in two classes:
+
+  * Introduction to Harmonic Analysis
+  * Oscillations in Harmonic Analysis
+
+  As member of an undergraduate research group led by Rafe Mazzeo, director of PCMI, I studied nodal domains and the Courant nodal domain theorem.
+  """
+
+[[experience]]
+  title = "Researcher/Project Manager"
+  company = "GumGum Inc. & IPAM"
+  company_url = "https://www.ias.edu/pcmi"
+  location = "California"
+  date_start = "2019-06-03"
+  date_end = "2019-08-24"
+  description = """
+  Participant of the Undergraduate Summer School at PCMI, an intensive three-week-long program of the Institute for Advanced Study, Princeton. Took part in two classes:
 
   * Introduction to Harmonic Analysis
   * Oscillations in Harmonic Analysis
