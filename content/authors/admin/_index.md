@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rodrigo Leonardo C
+name: Rodrigo Leonardo
 
 # Username (this should match the folder name)
 authors:
@@ -61,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-I am an avid reader − averaging a book a week since 2018 – and a fanatic of astrophysics. I practice soccer at a semi-pro level, frequently bet on soccer games, dance to latin music every now and then, trade binary options and spend quality time with family and friends. I am dedicated, disciplined, resilient and curious, having immovable principles and values and an unstoppable willpower oriented towards what I want to achieve.
+I am am an avid reader − averaging a book a week since 2018 – and a fanatic of astrophysics. I practice soccer at a semi-pro level, frequently bet on soccer games, dance to latin music every now and then, trade binary options and spend quality time with family and friends. I am dedicated, disciplined, resilient and curious, having immovable principles and values and an unstoppable willpower oriented towards what I want to achieve.
