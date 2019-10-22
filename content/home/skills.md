@@ -16,32 +16,32 @@ subtitle = ""
 
 [[feature]]
   icon = "Financial programming"
-  icon_pack = "fab"
-  name = "Python"
+  icon_pack = "fas"
+  name = "sack-dollar"
   #description = "90%"
   
 [[feature]]
   icon = "Harmonic Analysis"
-  icon_pack = "fab"
-  name = "Java"
-  description = "100%"  
+  icon_pack = "fas"
+  name = "wave-sine"
+  #description = "100%"  
   
 [[feature]]
   icon = "Probabilistic analysis"
-  icon_pack = "fab"
-  name = "RStudio"
-  description = "10%"
+  icon_pack = "fas"
+  name = "dice"
+  #description = "10%"
 
 [[feature]]
   icon = "Data Science"
-  icon_pack = "fab"
-  name = "RStudio"
-  description = "10%"
+  icon_pack = "fas"
+  name = "database"
+  #description = "10%"
 
 [[feature]]
   icon = "Numerical Analysis"
-  icon_pack = "fab"
-  name = "RStudio"
-  description = "10%"
+  icon_pack = "fas"
+  name = "sigma"
+  #description = "10%"
 
 +++
