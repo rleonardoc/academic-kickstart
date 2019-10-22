@@ -17,29 +17,29 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-  #[[experience]]
-  #title = "CEO"
-  #company = "GenCoin"
-  #company_url = ""
-  #location = "California"
-  #date_start = "2017-01-01"
-  #date_end = ""
-  #description = """
-  #Responsibilities include:
+[[experience]]
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
   
-  #* Analysing
-  #* Modelling
-  #* Deploying
-  #"""
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
-  #[[experience]]
-  #title = "Professor"
-  #company = "University X"
-  #company_url = ""
-  #location = "California"
-  #date_start = "2016-01-01"
-  #date_end = "2016-12-31"
-  #description = """Taught electronic engineering and researched semiconductor physics."""
+[[experience]]
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
   title = "Professor"
@@ -49,38 +49,5 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = "2019-11-30"
   description = "Taught AP Calculus AB."
-
-  """
-
-[[experience]]
-  title = "Researcher/Project Manager"
-  company = "GumGum Inc. & IPAM, UCLA"
-  company_url = "https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/"
-  location = "Los Angeles, CA"
-  date_start = "2019-06-23"
-  date_end = "2019-08-24"
-  description = """Participant of Research in Industrial Projects for Students, summer program jointly sponsored by the Institute for Pure and Applied Mathematics (IPAM), GumGum Inc. and NSF grant $\langle DMS\rangle$ 1440415."""
-
-  Responsibilities include:
-  
-  * Research and development of Computer Vision and Natural Language Processing algorithms centered around content safety classification.
-  * Design, development and integration of machine learning algorithms using a multimodal approach.
-  * Leading the team on the training and evaluation of the models produced.
-  * Presenting the research at both GumGum Inc. and IPAM.
-
-  """
-
-[[experience]]
-  title = "Student"
-  company = "Park City Mathematics Institute (PCMI) -- A program of the IAS"
-  company_url = "https://www.ias.edu/pcmi"
-  location = "Park City, UT"
-  date_start = "2018-07-1"
-  date_end = "2018-07-21"
-  description = """Participant of the Undergraduate Summer School of PCMI, a program of the Institute for Advanced Study, Princeton."""
-  Intensive three-week summer school. Participated in two classes:
-  * Introduction to Harmonic Analysis
-  * Oscillations in Harmonic Analysis
-  Member of undergraduate research group led by Rafe Mazzeo, director of PCMI. Studied nodal domains and the Courant nodal domain theorem.
 
 +++
