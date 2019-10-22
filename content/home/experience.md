@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Researcher/Project Manager"
-  company = "GumGum Inc. & IPAM"
+  title = "Researcher and Project Manager"
+  company = "GumGum Inc. and IPAM"
   company_url = "https://www.ias.edu/pcmi"
   location = "California"
   date_start = "2019-06-03"
