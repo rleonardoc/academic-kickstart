@@ -4,6 +4,11 @@ title: At the 18th International Conference on Machine Learning and Applications
 summary: Conference in the Machine Learning in Advanced Machine Vision special session.
 authors: ["admin"]
 featured: true
+image:
+  placement: 1
+  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  focal_point: "Center"
+  preview_only: false
 ---
 
 # h1 Heading 8-)
