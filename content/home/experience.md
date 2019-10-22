@@ -33,15 +33,6 @@ date_format = "Jan 2006"
   location = "Guatemala City"
   date_start = "2019-09-01"
   date_end = "2019-11-30"
-  description = "Taught AP Calculus AB."
-
-[[experience]]
-  title = "Student"
-  company = "Park City Mathematics Institute (PCMI)"
-  company_url = "https://www.ias.edu/pcmi"
-  location = "Park City, UT"
-  date_start = "2018-07-1"
-  date_end = "2018-07-21"
-  description = """Participant of the Undergraduate Summer School of PCMI, a program of the Institute for Advanced Study, Princeton."""
+  description = "Taught AP Calculus ABc."
 
 +++
