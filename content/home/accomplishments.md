@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "International Monetary Fund"
+  organization_url = "https://www.imf.org/external/index.htm"
+  title = "Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = "https://courses.edx.org/certificates/46c081db52904976a6a81592db5d59b9"
+  date_start = "2018-12-01"
+  date_end = "2019-04-01"
+  description = """Course on the macroeconomic accounts, their interrelationships, and the analysis of economic developments."""
 
 [[item]]
   organization = "edX"

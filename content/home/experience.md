@@ -54,7 +54,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Researcher/Project Manager"
-  company = "GumGum Inc. \& IPAM, UCLA"
+  company = "GumGum Inc. & IPAM, UCLA"
   company_url = "https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/"
   location = "Los Angeles, CA"
   date_start = "2019-06-23"
