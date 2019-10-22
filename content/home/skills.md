@@ -21,9 +21,9 @@ subtitle = ""
   #description = "90%"
   
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
+  icon = "wave-square"
+  icon_pack = "fas"
+  name = "Harmonic Analysis"
   description = "100%"  
   
 [[feature]]

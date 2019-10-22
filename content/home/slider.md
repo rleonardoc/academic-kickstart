@@ -23,7 +23,7 @@ height = "400px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "s1.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "s5.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -49,6 +49,6 @@ height = "400px"
   align = "right"
 
   #overlay_color = "#333"  # An HTML color value.
-  overlay_img = "s3.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "s3.jpg"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
