@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Skills in Applied Mathematics"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -28,19 +28,25 @@ subtitle = ""
   
 [[feature]]
   icon = "Probabilistic analysis"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "dice"
   #description = "10%"
 
 [[feature]]
   icon = "Data Science"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "database"
   #description = "10%"
 
 [[feature]]
   icon = "Numerical Analysis"
-  icon_pack = "fas"
+  icon_pack = "far"
+  name = "sigma"
+  #description = "10%"
+
+[[feature]]
+  icon = "Astrophysics"
+  icon_pack = "far"
   name = "sigma"
   #description = "10%"
 
