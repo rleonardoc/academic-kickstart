@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-dollar-sign"
+  icon = "dollar-sign"
   icon_pack = "fas"
   name = "Financial Programming"
   #description = "90%"
