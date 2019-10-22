@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ias.edu/pcmi"
   location = "California"
   date_start = "2019-07-01"
-  date_end = "2019-7-31"
+  date_end = "2019-08-31"
   description = """
   Participant of the Undergraduate Summer School of PCMI, an intensive three-week program of the Institute for Advanced Study, Princeton. Took part in two classes:
 
