@@ -21,10 +21,15 @@ date_format = "Jan 2006"
   title = "Student"
   company = "Park City Mathematics Institute"
   company_url = ""
-  location = "Park City UT"
-  date_start = "2018-07-01"
-  date_end = "2018-8-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Participant of the Undergraduate Summer School of PCMI, a program of the Institute for Advanced Study, Princeton.
+  Intensive three-week summer school. Participated in two classes:
+  * Introduction to Harmonic Analysis
+  * Oscillations in Harmonic Analysis
+  Member of undergraduate research group led by Rafe Mazzeo, director of PCMI. Studied nodal domains and the Courant nodal domain theorem.
+  """
 
 [[experience]]
   title = "Professor"
