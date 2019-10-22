@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rodrigo Leonardo
+name: Rodrigo Leonardo C
 
 # Username (this should match the folder name)
 authors:
