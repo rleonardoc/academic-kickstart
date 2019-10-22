@@ -74,8 +74,18 @@ date_format = "Jan 2006"
   title = "Introduction to Probability: The Science of Uncertainty"
   url = ""
   certificate_url = "https://courses.edx.org/certificates/73bf64d9b9ec4f1a8094dc9ea6869d52"
-  date_start = "2016-06-01"
-  date_end = "2016-07-21"
+  date_start = "2016-02-01"
+  date_end = "2016-05-21"
   description = "An introduction to probabilistic models, including random processes and the basic elements of statistical inference."
+
+[[item]]
+  organization = "National Science Olympic"
+  organization_url = ""
+  title = "Winner"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-08-01"
+  date_end = "2018-09-21"
+  description = "Seven times winner with two gold medals, three silver and two bronze, competing in the categories of Mathematics and Physics in High School (4) and at college-level (3)."
 
 +++
