@@ -21,7 +21,7 @@ subtitle = "In Applied Mathematics"
   #description = "90%"
   
 [[feature]]
-  icon = "wave-square"
+  icon = "broadcast-tower"
   icon_pack = "fas"
   name = "Harmonic Analysis"
   #description = "100%"  
@@ -39,7 +39,7 @@ subtitle = "In Applied Mathematics"
   #description = "90%"
   
 [[feature]]
-  icon = "wave-square"
+  icon = "calculator"
   icon_pack = "fas"
   name = "Numerical Analysis"
   #description = "100%"  
