@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Student"
   company = "Park City Mathematics Institute (PCMI)"
-  company_url = "https://www.ias.edu/pcmi"
+  company_url = ""
   location = "Park City, UT"
   date_start = "2018-07-1"
-  date_end = "2018-07-21"
+  date_end = "2018-08-1"
   description = """Participant of the Undergraduate Summer School of PCMI, a program of the Institute for Advanced Study, Princeton."""
 
 [[experience]]
