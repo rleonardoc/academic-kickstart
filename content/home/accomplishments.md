@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://courses.edx.org/certificates/46c081db52904976a6a81592db5d59b9"
   date_start = "2018-12-01"
   date_end = "2019-04-01"
-  description = """Course on the macroeconomic accounts, their interrelationships, and the analysis of economic developments."""
+  description = "Course on the macroeconomic accounts, their interrelationships, and the analysis of economic developments."
 
 [[item]]
   organization = "edX"
