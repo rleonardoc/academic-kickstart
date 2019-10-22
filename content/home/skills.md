@@ -15,19 +15,31 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "python"
+  icon = "Financial programming"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  #description = "90%"
   
 [[feature]]
-  icon = "java"
+  icon = "Harmonic Analysis"
   icon_pack = "fab"
   name = "Java"
   description = "100%"  
   
 [[feature]]
-  icon = "r-project"
+  icon = "Probabilistic analysis"
+  icon_pack = "fab"
+  name = "RStudio"
+  description = "10%"
+
+[[feature]]
+  icon = "Data Science"
+  icon_pack = "fab"
+  name = "RStudio"
+  description = "10%"
+
+[[feature]]
+  icon = "Numerical Analysis"
   icon_pack = "fab"
   name = "RStudio"
   description = "10%"
