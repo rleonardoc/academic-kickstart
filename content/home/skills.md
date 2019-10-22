@@ -16,14 +16,14 @@ subtitle = ""
 
 [[feature]]
   icon = "sack-dollar"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Financial programming"
   #description = "90%"
   
 [[feature]]
-  icon = "Harmonic Analysis"
-  icon_pack = "fas"
-  name = "wave-sine"
+  icon = "wave-sine"
+  icon_pack = "far"
+  name = "Harmonic Analysis"
   #description = "100%"  
   
 [[feature]]
@@ -33,21 +33,21 @@ subtitle = ""
   #description = "10%"
 
 [[feature]]
-  icon = "Data Science"
+  icon = "database"
   icon_pack = "far"
-  name = "database"
+  name = "Data Science"
   #description = "10%"
 
 [[feature]]
-  icon = "Numerical Analysis"
+  icon = "sigma"
   icon_pack = "far"
-  name = "sigma"
+  name = "Numerical Analysis"
   #description = "10%"
 
 [[feature]]
-  icon = "Astrophysics"
+  icon = "meteor"
   icon_pack = "far"
-  name = "sigma"
+  name = "Astrophysics"
   #description = "10%"
 
 +++
