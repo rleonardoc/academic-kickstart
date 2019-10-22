@@ -41,12 +41,12 @@ date_format = "Jan 2006"
   date_start = "2019-06-03"
   date_end = "2019-08-24"
   description = """
-  Participant of the Undergraduate Summer School at PCMI, an intensive three-week-long program of the Institute for Advanced Study, Princeton. Took part in two classes:
+  Participant of Research in Industrial Projects for Students, a summer program jointly sponsored by the Institute for Pure and Applied Mathematics (IPAM) and GumGum Inc. Responsibilities include:
 
-  * Introduction to Harmonic Analysis
-  * Oscillations in Harmonic Analysis
-
-  As member of an undergraduate research group led by Rafe Mazzeo, director of PCMI, I studied nodal domains and the Courant nodal domain theorem.
+  * Research and development of Computer Vision and Natural Language Processing algorithms centered around content safety classification.
+  * Design, development and integration of machine learning algorithms using a multimodal approach.
+  * Leading the team on the training and evaluation of the models produced.
+  * Presenting the research at both GumGum Inc. and IPAM.
   """
 
 [[experience]]
