@@ -29,14 +29,14 @@ date_format = "Jan 2006"
   description = "Course on the macroeconomic accounts, their interrelationships, and the analysis of economic developments."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Australian National University"
+  organization_url = "https://www.anu.edu.au/"
+  title = "XSeries Program in Astrophysics"
+  url = ""
+  certificate_url = "https://credentials.edx.org/credentials/f9f7d4f0122746738b828bc956dbeda8/"
+  date_start = "2018-12-01"
+  date_end = "2019-05-01"
+  description = "Series of four courses: Greatest Unsolved Mysteries of the Universe, Exploring Exoplanets, The Violent Universe and Cosmology."
   
 [[item]]
   organization = "DataCamp"
