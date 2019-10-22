@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "Financial programming"
+  icon = "sack-dollar"
   icon_pack = "fas"
-  name = "sack-dollar"
+  name = "Financial programming"
   #description = "90%"
   
 [[feature]]
@@ -27,9 +27,9 @@ subtitle = ""
   #description = "100%"  
   
 [[feature]]
-  icon = "Probabilistic analysis"
+  icon = "dice"
   icon_pack = "far"
-  name = "dice"
+  name = "Probabilistic analysis"
   #description = "10%"
 
 [[feature]]
