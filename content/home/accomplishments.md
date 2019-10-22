@@ -86,6 +86,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2011-08-01"
   date_end = "2018-09-21"
-  description = "Seven times winner with two gold medals, three silver and two bronze, competing in the categories of Mathematics and Physics in High School (4) and at college-level (3)."
+  description = "Seven times medallist nationwide in Guatemala, competing in the categories of Mathematics and Physics at college-level (3) and during high school (4)."
 
 +++
