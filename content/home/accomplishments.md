@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://courses.edx.org/certificates/46c081db52904976a6a81592db5d59b9"
   date_start = "2018-12-01"
   date_end = "2019-04-01"
-  description = "Course on the macroeconomic accounts, their interrelationships, and the analysis of economic developments."
+  description = "On the macroeconomic accounts, their interrelationships, and the analysis of economic developments."
 
 [[item]]
   organization = "Australian National University"
@@ -57,5 +57,25 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-06-21"
   description = "Introduction to finance course about the application of frameworks and smart tools for understanding and making everyday financial decisions."
+
+[[item]]
+  organization = "Boston University"
+  organization_url = "https://digital.bu.edu/product/ethical-leadership-character-civility-and-community/"
+  title = "Ethical Leadership: Character, Civility, and Community"
+  url = ""
+  certificate_url = "https://courses.edx.org/certificates/9322bb75152240cbbbf79c31a34befba"
+  date_start = "2016-06-01"
+  date_end = "2016-07-21"
+  description = "Insight on theoretical and practical elements of ethical leadership with emphasis on leaders’ personal narratives within social and historical contexts."
+
+[[item]]
+  organization = "Massachusetts Institute of Technology"
+  organization_url = "https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/"
+  title = "Introduction to Probability: The Science of Uncertainty"
+  url = ""
+  certificate_url = "https://courses.edx.org/certificates/73bf64d9b9ec4f1a8094dc9ea6869d52"
+  date_start = "2016-06-01"
+  date_end = "2016-07-21"
+  description = "An introduction to probabilistic models, including random processes and the basic elements of statistical inference."
 
 +++
