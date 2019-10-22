@@ -45,9 +45,9 @@ subtitle = "In Applied Mathematics"
   #description = "100%"  
   
 [[feature]]
-  icon = "dice"
+  icon = "meteor"
   icon_pack = "fas"
-  name = "Probabilistic Analysis"
+  name = "Astrophysics"
   #description = "10%"
 
 +++
