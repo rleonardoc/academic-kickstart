@@ -21,9 +21,9 @@ date_format = "Jan 2006"
   title = "Student"
   company = "Park City Mathematics Institute"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Park City, UT"
+  date_start = "2018-07-01"
+  date_end = "2018-8-30"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
