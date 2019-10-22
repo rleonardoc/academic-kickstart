@@ -1,10 +1,11 @@
+markup: mmark
+
 +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
-markup: mmark
 
 title = "Experience"
 subtitle = ""
@@ -50,5 +51,5 @@ date_format = "Jan 2006"
   * Design, development and integration of machine learning algorithms using a multimodal approach.
   * Leading the team on the training and evaluation of the models produced.
   * Presenting the research at both GumGum Inc. and IPAM.
-  
+
 +++
