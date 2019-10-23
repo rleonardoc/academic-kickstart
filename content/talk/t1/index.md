@@ -15,15 +15,15 @@ math: true
 
 # We are getting published!
 
-After ten weeks of hardwork, as part of the Research in Industrial Projects for Students program, jointly supported by the Institute of Pure and Applied Mathematics at UCLA, GumGum Inc., and NSF Grant $$\langle$$DMS$$\rangle$$ 1440415.
-## Links
+It took us ten weeks of hardwork, as part of the [Research in Industrial Projects for Students](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/) program, jointly supported by the Institute for Pure and Applied Mathematics at UCLA, GumGum Inc., and NSF Grant $$\langle$$DMS$$\rangle$$ 1440415. But who is us?
 
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy
 
 ## Images
 
