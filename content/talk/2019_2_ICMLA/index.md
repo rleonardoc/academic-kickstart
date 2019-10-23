@@ -16,7 +16,7 @@ math: true
 
 # We are getting published by the IEEE!
 
-It took us ten weeks of hard work, as part of the [Research in Industrial Projects for Students](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/) (RIPS) program, jointly supported by the Institute for Pure and Applied Mathematics (IPAM) at UCLA, GumGum Inc., and NSF Grant $$\langle$$DMS$$\rangle$$ 1440415. 
+It took us ten weeks of hard work, as part of the [Research in Industrial Projects for Students](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/) (RIPS) program, jointly supported by the [Institute for Pure and Applied Mathematics](https://www.ipam.ucla.edu/) (IPAM) at UCLA, [GumGum Inc.](https://gumgum.com/), and NSF Grant $$\langle$$DMS$$\rangle$$ 1440415.
 
 Here's the wonderful team:
 
