@@ -13,17 +13,23 @@ markup: mmark
 math: true
 ---
 
-# We are getting published!
+# We are getting published by the IEEE!
 
-It took us ten weeks of hardwork, as part of the [Research in Industrial Projects for Students](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/) program, jointly supported by the Institute for Pure and Applied Mathematics at UCLA, GumGum Inc., and NSF Grant $$\langle$$DMS$$\rangle$$ 1440415. But who is us?
+It took us ten weeks of hardwork, as part of the [Research in Industrial Projects for Students](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/) (RIPS) program, jointly supported by the Institute for Pure and Applied Mathematics (IPAM) at UCLA, GumGum Inc., and NSF Grant $$\langle$$DMS$$\rangle$$ 1440415. 
 
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy
+Here's the wonderful team:
+
++ Amber Hu, Yale University
++ Mohammad Uzair, National University of Sciences & Technology
++ Qiujing Lu, University of California Los Angeles
++ Iris Fu, GumGum Inc.
++ Keishin Nishiyama, GumGum Inc.
++ Sooraj Mangalath Subrahmannian, GumGum Inc.
++ Divyaa Ravichandran, GumGum Inc.
+
+Amber and Mohammad are also RIPS participants and we worked together at IPAM's offices for nine weeks. Near the end of the program, we even slept there several times, as we were wrapping up research, final report and presentation. It was both physically and mentally challenging and I thank them both for never giving up. Qiujing is the star of the team, our academic mentor. She brought us food and ice cream whenever we were staying late to work (again, more often than I'd like to admit). Apart from her enthusiastic and supportive personality, she guided pivotal decisions in the project, always having the right paper at the right time, giving us the tools to build what we dreamed of.
+
+Meeting the GumGum team and working with them was an honor and one of the highlights of the RIPS program. They trusted us with the development of a product that's relevant for the company, and once we had that, being motivated and decided to work was the easy part. Amber, Mohammad and I loved visiting GumGum three times throughout the program. The staff was welcoming and curious about what we would achieve at the end.
 
 ## Images
 
@@ -43,45 +49,3 @@ With a reference later in the document defining the URL location:
 
 The killer feature of `markdown-it` is very effective support of
 [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
