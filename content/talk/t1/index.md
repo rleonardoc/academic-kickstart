@@ -27,25 +27,8 @@ Here's the wonderful team:
 + Sooraj Mangalath Subrahmannian, GumGum Inc.
 + Divyaa Ravichandran, GumGum Inc.
 
-Amber and Mohammad are also RIPS participants and we worked together at IPAM's offices for nine weeks. Near the end of the program, we even slept there several times, as we were wrapping up research, final report and presentation. It was both physically and mentally challenging and I thank them both for never giving up. Qiujing is the star of the team, our academic mentor. She brought us food and ice cream whenever we were staying late to work (again, more often than I'd like to admit). Apart from her enthusiastic and supportive personality, she guided pivotal decisions in the project, always having the right paper at the right time, giving us the tools to build what we dreamed of.
+Amber and Mohammad are also RIPS participants and we worked together at IPAM's offices for nine weeks. Near the end of the program, we even slept there several times, as we were wrapping up research, final report and presentation. It was both physically and mentally challenging and I thank them both for never giving up. Qiujing is the star of the team, our academic mentor. She brought us food and ice cream whenever we were staying late to work (again, more often than I'd like to admit). Apart from her enthusiastic and supportive personality, she guided pivotal decisions in the project, always having the right paper at the right time, giving us the tools to materialize what was in our minds.
 
-Meeting the GumGum team and working with them was an honor and one of the highlights of the RIPS program. They trusted us with the development of a product that's relevant for the company, and once we had that, being motivated and decided to work was the easy part. Amber, Mohammad and I loved visiting GumGum three times throughout the program. The staff was welcoming and curious about what we would achieve at the end.
+Meeting the [GumGum](https://gumgum.com/) team and working with them was an honor and one of the highlights of the RIPS program. They trusted us with the development of a product that's relevant for the company, and once we had that, being motivated to work was the easy part. 
 
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "Amber, Mohammad and I visited GumGum's offices in Santa Monica three times throughout the program.")
