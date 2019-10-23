@@ -1,10 +1,10 @@
 ---
 date: 2019-10-22T09:32:00
-title: At the 18th International Conference on Machine Learning and Applications - ICMLA 2019
+title: At the 18th International Conference on Machine Learning and Applications
 summary: Conference in the Machine Learning in Advanced Machine Vision special session.
 authors: ["admin"]
 featured: true
-event: ICMLA
+event: [ICMLA 2019](https://www.icmla-conference.org/icmla19/)
 image:
   placement: 1
   caption: ""
