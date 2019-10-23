@@ -9,12 +9,13 @@ image:
   caption: ""
   focal_point: "Center"
   preview_only: false
+markup: mmark
+math: true
 ---
 
 # We are getting published!
 
-After ten weeks of hardwork, as part of the Research in Industrial Projects for Students program, sponsored by both
-
+After ten weeks of hardwork, as part of the Research in Industrial Projects for Students program, jointly supported by the Institute of Pure and Applied Mathematics at UCLA, GumGum Inc., and NSF Grant $$\langle$$DMS$$\rangle$$ 1440415.
 ## Links
 
 [link text](http://dev.nodeca.com)
