@@ -4,6 +4,7 @@ title: At the 18th International Conference on Machine Learning and Applications
 summary: Conference in the Machine Learning in Advanced Machine Vision special session.
 authors: ["admin"]
 featured: true
+event: ICMLA
 image:
   placement: 1
   caption: ""
