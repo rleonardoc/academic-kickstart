@@ -31,4 +31,4 @@ Amber and Mohammad are also RIPS participants and we worked together at IPAM's o
 
 Meeting the [GumGum](https://gumgum.com/) team and working with them was an honor and one of the highlights of the RIPS program. They trusted us with the development of a product that's relevant for the company, and once we had that, being motivated to work was the easy part. 
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "Amber, Mohammad and I visited GumGum's offices in Santa Monica three times throughout the program.")
+![sitevisit](https://github.com/rleonardoc/academic-kickstart/blob/master/static/img/sitevisit.jpg "Amber, Mohammad and I visited GumGum's offices in Santa Monica three times throughout the program.")
