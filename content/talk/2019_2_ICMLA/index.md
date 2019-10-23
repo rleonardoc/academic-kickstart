@@ -1,10 +1,10 @@
 ---
 date: 2019-10-22T09:32:00
 title: At the 18th International Conference on Machine Learning and Applications
-summary: Conference in the Machine Learning in Advanced Machine Vision special session.
+summary: Talk in the Machine Learning in Advanced Machine Vision special session.
 authors: ["admin"]
 featured: true
-event: [ICMLA 2019](https://www.icmla-conference.org/icmla19/)
+event: ICMLA 2019
 image:
   placement: 1
   caption: ""
@@ -33,3 +33,5 @@ Amber and Mohammad are also RIPS participants and we worked together at IPAM's o
 Meeting the [GumGum](https://gumgum.com/) team and working with them was an honor and one of the highlights of the RIPS program. They trusted us with the development of a product that's relevant for the company, and once we had that, being motivated to work was the easy part. 
 
 ![](sitevisit.jpg "Amber, Mohammad and I visited GumGum's offices in Santa Monica three times throughout the program.")
+
+Before the end of the program, we all agreed to pursue publication of our research and the [IEEE ICMLA 2019](https://www.icmla-conference.org/icmla19/) was our first option. We only had two weeks to write the paper after going back home. I had to catch up with two months worth of school, so I lost a week with that. Everyone else was busy, so we could only start working on the paper exactly one week before the deadline! And that was the same week I stated teaching AP Calculus. It was crazy, as the whole project has been, but our efforts paid off. So, a month after sending our proposal, we got back excellent news. Turns out the IEEE accepted our paper as full paper and gave us a spot for a talk in the Machine Learning in Advanced Machine Vision special session. As an undergrad living in a country where research in mathematics/applied mathematics $$= \emptyset$$, I can't express how fulfilling this is.
