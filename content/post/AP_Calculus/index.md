@@ -25,3 +25,7 @@ math: true
 + [Lecture 3](lecture3.pdf)
 + [Lecture 4](lecture4.pdf)
 + [Lecture 5](lecture5.pdf)
++ [Lecture 6](lecture6.pdf)
++ [Lecture 7](lecture7.pdf)
++ [Lecture 8](lecture8.pdf)
++ [Lecture 9](lecture9.pdf)
