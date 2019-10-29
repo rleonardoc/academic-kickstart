@@ -42,6 +42,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rodleonardoc
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/rodleonardoc
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/rodleonardoc
