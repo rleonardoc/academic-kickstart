@@ -29,3 +29,9 @@ math: true
 + [Lecture 7](lecture7.pdf)
 + [Lecture 8](lecture8.pdf)
 + [Lecture 9](lecture9.pdf)
+
+### Literatura consultada
+
++ Cracking AP Calculus AB - Princeton Review, 2017.
++ 320 AP Calculus AB Problems - Dr. Steve Warner, 2016.
++ Vienneau's lecture notes.
