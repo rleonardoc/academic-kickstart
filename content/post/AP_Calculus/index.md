@@ -16,7 +16,7 @@ math: true
 
 ## Textbook
 
-[Calculus - Graphical, Numerical, Algebraic. 3rd edition](textbook.pdf)
+[Calculus - Graphical, Numerical, Algebraic. 3rd edition](https://www.amazon.com/Calculus-Graphical-Numerical-Algebraic-3rd/dp/0132014084)
 
 ## Lecture notes
 
@@ -34,4 +34,5 @@ math: true
 
 + Cracking AP Calculus AB - Princeton Review, 2017.
 + 320 AP Calculus AB Problems - Dr. Steve Warner, 2016.
++ Calculus - Graphical, Numerical, Algebraic. 3rd edition.
 + Vienneau's lecture notes.
