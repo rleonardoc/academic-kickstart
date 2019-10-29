@@ -18,7 +18,7 @@ math: true
 
 [Calculus - Graphical, Numerical, Algebraic. 3rd edition](https://www.amazon.com/Calculus-Graphical-Numerical-Algebraic-3rd/dp/0132014084)
 
-## Lecture notes
+## Activities
 
 [Program for October-November 2019](program.pdf)
 
