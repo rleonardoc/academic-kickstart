@@ -16,6 +16,8 @@ math: true
 
 I taught nine wonderful students throughout September at [Colegio Internacional Montessori](https://montessori.edu.gt/web/). As my first experience as a professor, I enjoyed interacting and working with students who found the subject compelling and who truly wanted to dig deeper in the matter. And so we did and results were satisfactory.
 
+![](team.jpeg "Honors Math team.")
+
 ## Lecture notes
 
 + [Lecture 1](lecture1.pdf)
