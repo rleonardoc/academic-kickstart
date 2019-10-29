@@ -20,6 +20,10 @@ math: true
 
 ## Lecture notes
 
+[Program for October-November 2019](program.pdf)
+
+## Lecture notes
+
 + [Lecture 1](lecture1.pdf)
 + [Lecture 2](lecture2.pdf)
 + [Lecture 3](lecture3.pdf)
