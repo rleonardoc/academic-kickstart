@@ -1,4 +1,6 @@
 ---
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
 # Display name
 name: Rodrigo Leonardo
 
@@ -44,6 +46,9 @@ social:
   link: https://twitter.com/rodleonardoc
 - icon: goodreads-g
   icon_pack: fab
+  link: https://www.goodreads.com/rodleonardoc
+- icon: cv
+  icon_pack: ai
   link: https://www.goodreads.com/rodleonardoc
 #- icon: github
 #  icon_pack: fab
