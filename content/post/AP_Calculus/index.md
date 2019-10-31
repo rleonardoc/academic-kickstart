@@ -34,6 +34,10 @@ math: true
 + [Lecture 8](lecture8.pdf)
 + [Lecture 9](lecture9.pdf)
 
+## Tests
+
++ [Test 1](test1.pdf)
+
 ### Bibliography
 
 + Cracking AP Calculus AB - Princeton Review, 2017.
