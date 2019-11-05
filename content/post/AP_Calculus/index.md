@@ -12,6 +12,7 @@ image:
   preview_only: false
 markup: mmark
 math: true
+comments: true
 ---
 
 ## Textbook
