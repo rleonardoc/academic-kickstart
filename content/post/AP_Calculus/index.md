@@ -33,6 +33,11 @@ math: true
 + [Lecture 7](lecture7.pdf)
 + [Lecture 8](lecture8.pdf)
 + [Lecture 9](lecture9.pdf)
++ [Lecture 10](lecture10.pdf)
++ [Lecture 11](lecture11.pdf)
++ [Lecture 12](lecture12.pdf)
++ [Lecture 13](lecture13.pdf)
++ [Lecture 14](lecture14.pdf)
 
 ### Bibliography
 
