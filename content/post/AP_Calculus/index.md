@@ -38,6 +38,10 @@ math: true
 + [Lecture 12](lecture12.pdf)
 + [Lecture 13](lecture13.pdf)
 + [Lecture 14](lecture14.pdf)
++ [Lecture 15](lecture15.pdf)
++ [Lecture 16](lecture16.pdf)
++ [Lecture 17](lecture17.pdf)
++ [Lecture 18](lecture18.pdf)
 
 ### Bibliography
 
