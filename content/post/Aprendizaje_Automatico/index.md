@@ -26,7 +26,7 @@ math: true
 
 ## VC dimension
 
-La complejidad de una clase de hipótesis $\mathcal{H}$ 
+El manejo de la complejidad de una clase de hipótesis $\mathcal{H}$ requiere de un balance delicado dadas sus amplias repercusiones en los tiempos de compilación de los algoritmos y la capacidad de clasificar fielmente a las observaciones. Por ende, es necesario cuantificar la capacidad con la que $\mathcal{H}$ se adapta a cada conjunto $\mathcal{X}$ y distribución $D$ del cual se obtiene la muestra para entrenar. Las anotaciones de las observaciones $x_{i}$ toman el rol de las posibles combinaciones de posibilidades; por ende, ser capaz de replicar estas variaciones depende de la complejidad de la clase $\mathcal{H}$. Asimismo, se dice que un conjunto $C\subset \mathcal{X}$ es \textbf{roto} por $\mathcal{H}$ si la restricción de $\mathcal{H}$ con $C$ coincide con las posibles funciones $f:C \rightarrow \{ 0,1 \}$. 
 
 ### Bibliography
 
