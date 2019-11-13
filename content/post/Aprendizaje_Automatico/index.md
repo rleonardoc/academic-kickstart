@@ -26,9 +26,19 @@ math: true
 
 ## VC dimension
 
-El manejo de la complejidad de una clase de hipótesis $\mathcal{H}$ requiere de un balance delicado dadas sus amplias repercusiones en los tiempos de compilación de los algoritmos y la capacidad de clasificar fielmente a las observaciones. Por ende, es necesario cuantificar la capacidad con la que $\mathcal{H}$ se adapta a cada conjunto $\mathcal{X}$ y distribución $D$ del cual se obtiene la muestra para entrenar. Las anotaciones de las observaciones $x_{i}$ toman el rol de las posibles combinaciones de posibilidades; por ende, ser capaz de replicar estas variaciones depende de la complejidad de la clase $\mathcal{H}$. Asimismo, se dice que un conjunto $C\subset \mathcal{X}$ es $\textbf{roto}$ por $\mathcal{H}$ si la restricción de $\mathcal{H}$ con $C$ coincide con las posibles funciones $f:C \rightarrow \{ 0,1 \}$. Es decir, los elementos de $\mathcal{H}$ son lo suficientemente variados para describir totalmente cualquier configuración de anotaciones de los elementos de $C$.
+El manejo de la complejidad de una clase de hipótesis $\mathcal{H}$ requiere de un balance delicado dadas sus amplias repercusiones en los tiempos de compilación de los algoritmos y la capacidad de clasificar fielmente a las observaciones. Por ende, es necesario cuantificar la capacidad con la que $\mathcal{H}$ se adapta a cada conjunto $\mathcal{X}$ y distribución $D$ del cual se obtiene la muestra para entrenar. Las anotaciones de las observaciones $x_{i}$ toman el rol de las posibles combinaciones de posibilidades; por ende, ser capaz de replicar estas variaciones depende de la complejidad de la clase $\mathcal{H}$. 
 
-Por el momento se han definido conjuntos de muestras que son totalmente explicados -- aprendidos -- por una clase de hipótesis. Sin embargo, conforme incremente la cardinalidad de $C$, explicar tales variaciones representa un problema para $\mathcal{H}$, dado que esta debe de contener clasificadores aún más específicos. En particular, la cantidad de funciones que la restricción de $\mathcal{H}$ a $C$ debe tener coincide con $2^{|C|}$. Este incremento exponencial de clases de hipótesis limita a $\mathcal{H}$ en el sentido de explicar en su totalidad a los subconjuntos de $\mathcal{X}$. Por supuesto, dados incrementos discretos en la cardinalidad de $C$, debe existir un entero máximo que represente el número de observaciones que, en conjunto, son rotos por $\mathcal{H}$. A esto se le conoce como la dimensión de Vapnik-Chervonenkis, o $\dim$VC de $\mathcal{H}$.
+La restricción de $\matchal{H}$ a $C = \{ c_{1},\dots,c_{m} \}$ se define como
+
+$$\mathcal{H}_{C} = \{ h(c_{1}),\dots,h(c_{m}) : h \in \mathcal{H} \}$$
+
+Asimismo, se dice que un conjunto $C\subset \mathcal{X}$ es $\textbf{roto}$ por $\mathcal{H}$ si la restricción de $\mathcal{H}$ con $C$ coincide con las posibles funciones $f:C \rightarrow \{ 0,1 \}$. Es decir, los elementos de $\mathcal{H}$ son lo suficientemente variados para describir totalmente cualquier configuración de anotaciones de los elementos de $C$.
+
+Por el momento se han definido conjuntos de muestras que son totalmente explicados – aprendidos – por una clase de hipótesis. Sin embargo, conforme incremente la cardinalidad de $C$, explicar tales variaciones representa un problema para $\mathcal{H}$, dado que esta debe de contener clasificadores aún más específicos. En particular, la cantidad de funciones que la restricción de $\mathcal{H}$ a $C$ debe tener coincide con $2^{|C|}$. Este incremento exponencial de clases de hipótesis limita a $\mathcal{H}$ en el sentido de explicar en su totalidad a los subconjuntos de $\mathcal{X}$. Por supuesto, dados incrementos discretos en la cardinalidad de $C$, debe existir un entero máximo que represente el número de observaciones que, en conjunto, son rotos por $\mathcal{H}$. A esto se le conoce como la dimensión de Vapnik-Chervonenkis, o VC$\dim$ de $\mathcal{H}$.
+
+$$VC\dim(\mathcal{H}) = |C|$$
+
+tal que $C$ es el conjunto de cardinalidad mayor roto por $\mathcal{H}$.
 
 ### Bibliography
 
