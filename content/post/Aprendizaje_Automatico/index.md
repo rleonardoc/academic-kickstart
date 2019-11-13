@@ -24,6 +24,10 @@ math: true
 + [Tarea 2](tarea2.pdf)
 + [Tarea 3](tarea3.pdf)
 
+## VC dimension
+
+La complejidad de una clase de hipótesis $\mathcal{H}$ 
+
 ### Bibliography
 
 + Understanding Machine Learning - Shalev-Shwartz, Ben-David.
