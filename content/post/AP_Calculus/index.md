@@ -49,6 +49,11 @@ math: true
 + [Lecture 23](lecture23.pdf)
 + [Lecture 24](lecture24.pdf)
 + [Lecture 25](lecture25.pdf)
++ [Lecture 26](lecture26.pdf)
++ [Lecture 27](lecture27.pdf)
++ [Lecture 28](lecture28.pdf)
++ [Lecture 29](lecture29.pdf)
++ [Lecture 30](lecture30.pdf)
 
 ### Bibliography
 
