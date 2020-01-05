@@ -14,4 +14,4 @@ markup: mmark
 math: true
 ---
 
-[![Video Statement - NYU](https://i.ibb.co/SPcrYFH/https-i-ytimg-com-vi-XCHN6-BAXn-Q-maxresdefault.jpg)](https://www.youtube.com/watch?v=-XCHN6BAXnQ "Video Statement - NYU")
+[![Video Statement - NYU](https://i.ibb.co/vLXqM4H/https-i-ytimg-com-vi-Mp1-Htdl-KWVs-maxresdefault.jpg)](https://www.youtube.com/watch?v=Mp1HtdlKWVs&feature=youtu.be "Video Statement - NYU")
